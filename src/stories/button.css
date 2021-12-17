@@ -8,8 +8,8 @@
   line-height: 1;
 }
 .storybook-button--primary {
-  color: rgb(51, 7, 173);
-  background-color: #e90d0d;
+  color: rgb(193, 235, 115);
+  background-color: #e90db2;
 }
 .storybook-button--secondary {
   color: #333;
